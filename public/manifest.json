@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
 
-  "name": "Chrome Extension TypeScript Starter",
-  "description": "Chrome Extension, TypeScript, Visual Studio Code",
+  "name": "Base64 Decoder",
+  "description": "decode base64 text with selection",
   "version": "1.0",
 
   "options_ui": {
@@ -26,7 +26,7 @@
   },
 
   "permissions": [
-    "storage"
+    "storage", "contextMenus"
   ],
 
   "host_permissions": [
