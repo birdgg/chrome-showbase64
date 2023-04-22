@@ -2,6 +2,8 @@
 
 为了方便解码 v2ex 上面的文本，用 chatgpt 写了这个插件
 
+建议使用 [v2ex-polish](https://github.com/coolpace/V2EX_Polish.git)
+
 ![](./images/demo.gif)
 
 
